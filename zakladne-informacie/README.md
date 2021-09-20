@@ -30,7 +30,7 @@
 * **Prezentovanie finálneho projektu: 12. týždeň - 6.12. a 7.12.**
 
 ### Sviatky ZS 2021
-* 1. 11. 2021, po, deň pracovného pokoja – Sviatok všetkých svätých
-* 17. 11. 2021, st, štátny sviatok – Deň boja za slobodu a demokraciu
-* 13. 12. 2021, po, **náhrada výučby ako v pondelok (náhrada za 1. 11. 2021)**
-* 14. 12. 2021, ut, **náhrada výučby ako v stredu (náhrada za 17. 11. 2021)**
+* 1.11. 2021, po, deň pracovného pokoja – Sviatok všetkých svätých
+* 17.11. 2021, st, štátny sviatok – Deň boja za slobodu a demokraciu
+* 13.12. 2021, po, **náhrada výučby ako v pondelok (náhrada za 1. 11. 2021)**
+* 14.12. 2021, ut, **náhrada výučby ako v stredu (náhrada za 17. 11. 2021)**
