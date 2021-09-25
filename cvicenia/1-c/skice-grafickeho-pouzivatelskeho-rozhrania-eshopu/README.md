@@ -2,7 +2,7 @@
 
 ## Inicializácia semestrálneho projektu
 
-**Vyberte si a oboznámte sa s nástrojom na vytváranie skíc** grafického používateľského rozhrania webových stránok (angl. [wireframe](https://en.wikipedia.org/wiki/Website_wireframe)). [Figma](https://www.figma.com/), odporúčam, je zadarmo pre 3 projekty/2 editori (mal by postačovať). Môžete použiť akýkoľvek iný nástroj, [zoznam ďalších nástrojov nájdete na konci stránky](#nastroje).
+**Vyberte si a oboznámte sa s nástrojom na vytváranie skíc** grafického používateľského rozhrania webových stránok (angl. [wireframe](https://en.wikipedia.org/wiki/Website_wireframe)). [Figma](https://www.figma.com/), odporúčam. Môžete použiť akýkoľvek iný nástroj, [zoznam ďalších nástrojov nájdete na konci stránky](#nastroje).
 
 **Vašou úlohou je zvoliť si doménu eshopu** (napr. elektro, oblečenie, obuv, nábytok) a **vytvoriť skice** (aspoň) pre tieto stránky:
 
@@ -13,9 +13,9 @@
     * pozostávajúci aspoň z troch krokov, a to: sumarizácia daných položiek v košíku, výber dopravy a platby, dodacie údaje 
 * **prihlásenie a registrácia používateľa** (v prípade použitia "vyskakovacieho" panelu na prihlásenie sa používateľa je potrebné toto ilustrovať na niektorej z vytvorených stránok)
 
-**Vytvorte skice jednotlivých stránok pre zariadenia extra small (< 600px)**
+**Vytvorte skice jednotlivých stránok pre zariadenia extra large (desktop, >= 1200px)**
 
-**Pozrite si, čo sú [responsive breakpoints](https://getbootstrap.com/docs/4.0/layout/overview/#responsive-breakpoints), [mobile first](https://responsivedesign.is/strategy/page-layout/defining-breakpoints/)**.
+**Pozrite si, čo sú [responsive breakpoints](https://getbootstrap.com/docs/4.0/layout/overview/#responsive-breakpoints)**.
 
 **Pozrite si ukážku** [úvodnej stránky](zdroje/vsehochut-eshop-priklad.pdf). Aspoň taká by mala byť tiež úroveň abstrakcie vašich skíc.
 
