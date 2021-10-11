@@ -15,9 +15,6 @@ PhpStorm poskytuje funkcionalitu živého náhľadu zmien vykonaných v HTML, CS
 * Uložte nastavenie.
 
 
-## Rozšírenie do Chromu
-Z Chrome Web Store si nainštalujte rozšírenie do prehliadača - [JetBrains IDE Support](https://chrome.google.com/webstore/detail/jetbrains-ide-support/hmhgeddbohgjknpmjagkdomcpobmllji)
-
 ## Hotovo, editujme naživo...
 
 * Vytvorte si v projekte HTML dokument, napr. *hokuspokus.html*.
@@ -29,4 +26,5 @@ Z Chrome Web Store si nainštalujte rozšírenie do prehliadača - [JetBrains ID
 
 *Otvorí sa prehliadač a akúkoľvek zmenu v danom súbore môžete priamo vidieť v prehliadači. Skúste pripojiť aj CSS a JS súbory...*
 
-
+### Zdroj
+* [Live Edit in HTML, CSS, and JavaScript](https://www.jetbrains.com/help/phpstorm/live-editing.html)
